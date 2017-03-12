@@ -1,8 +1,8 @@
 ## Background
-The Computer Science degree from [OSSU](https://github.com/open-source-society) always sounded interesting, but never really got a chance to get into it. A friend of mine started fiddling with Unreal Engine 4 and asked me if I was interested in joining learning the UE4. I accepted out of interest and stumbled upon [P1xt](twitter.com/P1xt)'s thread on [FreeCodeCamp's Forum](https://forum.freecodecamp.com/t/computer-guide-video-game-programming-comprehensive-foundations).
+The Computer Science degree from [OSSU](https://github.com/open-source-society) always sounded interesting, but never really got a chance to get into it. A friend of mine started fiddling with Unreal Engine 4 and asked me if I was interested in joining learning the UE4. I accepted out of interest and stumbled upon [P1xt](https://twitter.com/P1xt)'s thread on [FreeCodeCamp's Forum](https://forum.freecodecamp.com/t/computer-guide-video-game-programming-comprehensive-foundations).
 He motivated me to start following his path while helping my friend figuring out UE4. 
 
-Thank you [P1xt](twitter.com/P1xt).
+Thank you [P1xt](https://twitter.com/P1xt).
 
 ## Prerequisite
 

@@ -228,37 +228,37 @@ Use the Force :D
 * Read [this](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html) - on crafting a resume
 
 #### If you need a productive break from a course or book to clear your head, BUILD A GAME, then get back to the list. Here's some ideas (some are already present in the lists above):
-Pong
-Zork
-Mastermind
-Memory Puzzle
-Galaga
-PacMan
-Breakout
-Solitaire
-Flappy Bird
-Space Invaders
-Super Mario Bros
-Fruit Ninja
-Last Stand
-Tetris
-Angry Birds
-Bejeweled
-Sokoban
-Katamari Damacy
-Blackjack (with AI opponents)
-Checkers (with AI opponent)
-Donkey Kong
-Tron (two player, with option for multiplayer or AI opponent)
-Pokemon
-Monopoly (1-4 player, with option for multiplayer or AI opponent)
-Bomberman
-Diablo
-Zelda
-Scythe
-Minecraft
-Risk
-Lunar Lander
-Last Stand
-Streetfighter 
-Castlevania
+- Pong
+- Zork
+- Mastermind
+- Memory Puzzle
+- Galaga
+- PacMan
+- Breakout
+- Solitaire
+- Flappy Bird
+- Space Invaders
+- Super Mario Bros
+- Fruit Ninja
+- Last Stand
+- Tetris
+- Angry Birds
+- Bejeweled
+- Sokoban
+- Katamari Damacy
+- Blackjack (with AI opponents)
+- Checkers (with AI opponent)
+- Donkey Kong
+- Tron (two player, with option for multiplayer or AI opponent)
+- Pokemon
+- Monopoly (1-4 player, with option for multiplayer or AI opponent)
+- Bomberman
+- Diablo
+- Zelda
+- Scythe
+- Minecraft
+- Risk
+- Lunar Lander
+- Last Stand
+- Streetfighter 
+- Castlevania
